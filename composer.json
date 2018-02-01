@@ -1,6 +1,6 @@
 {
-  "name": "michalkvacek/gopay",
-  "description": "Integrace platebního systému Gopay pro Nette Framework. Kompatibilní s PHP 7.2",
+  "name": "markette/gopay",
+  "description": "Integrace platebního systému Gopay pro Nette Framework.",
   "keywords": ["nette", "eshop", "payment", "gopay"],
   "homepage": "https://github.com/Markette/Gopay",
   "license": "New BSD",
@@ -20,10 +20,6 @@
     {
       "name": "Jaroslav Hranička",
       "email": "hranicka@outlook.com"
-    },
-    {
-	    "name": "Michal Kváček",
-	    "email": "michal@kvacek.cz"
     }
   ],
   "require": {
